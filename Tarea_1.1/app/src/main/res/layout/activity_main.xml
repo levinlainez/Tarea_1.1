@@ -97,7 +97,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginEnd="8dp"
         android:text="Operaciones Basicas"
-        android:textColor="#000"
+        android:textColor="#fff"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/txtNum1"
         app:layout_constraintEnd_toEndOf="parent"
